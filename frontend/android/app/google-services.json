@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "596643047695",
+    "project_id": "skill-hub-1io3w8",
+    "storage_bucket": "skill-hub-1io3w8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:596643047695:android:7150dc01f2ecc4e9e1367a",
+        "android_client_info": {
+          "package_name": "com.mycompany.skillhub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTQAjYGa_ThONbtkCt7QfdHH3zPER029E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
